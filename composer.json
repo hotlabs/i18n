@@ -1,0 +1,12 @@
+{
+    "name": "fuel/i18n",
+    "description": "FuelPHP Internationalization Package",
+    "type": "fuel-package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "HotLabs",
+            "email": "eugene.php8@gmail.com"
+        }
+    ]
+}
